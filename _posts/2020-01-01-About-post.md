@@ -14,6 +14,7 @@ Flex is a minimalist, responsive theme based on the website, [The Development](h
 
 Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
 
-## 3.TEST
+## 3. TEST
 
 안녕하세요!
+제 깃허브 주소 [Github](https://github.com/610ksh) 입니다.
