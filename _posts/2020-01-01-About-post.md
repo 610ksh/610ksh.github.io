@@ -6,9 +6,8 @@ date:   2020-01-01 00:00:00
 categories: posts
 ---
 　
-
 # Kookmin University
-
+　
 2013.3 - 국민대 컴퓨터공학(소프트웨어) 입학  
 2015.11 - 서울 의무경찰 입대  
 2017.8 - 제대  
@@ -18,9 +17,9 @@ Score : 3.2(4.5)
 [Github](https://github.com/610ksh)  
 
 ---
-
+　
 # Project  
-
+　
 ### 2017.9 ~ 12
 : Open source Team project(LibGDX), Mobile Fight Game  
 오픈소스 팀프로젝트(LibGDX), 외국인들 3명과 협업하여 모바일 격투 게임 제작
@@ -41,9 +40,9 @@ Score : 3.2(4.5)
 현재 진행중
 
 ----
-
+　
 # Study  
-
+　
 ### 2019.6 ~ 8 (Summer vacation)
 - OpenGL 그래픽스 & 게임수학, 물리 (이론)
 - Cpp 문법 복습
