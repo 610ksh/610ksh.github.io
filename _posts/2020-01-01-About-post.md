@@ -6,6 +6,53 @@ date:   2020-01-01 00:00:00
 categories: posts
 ---
 
+# About Me
+
+2013.3 - 국민대 컴퓨터공학(소프트웨어) 입학
+2015.11 - 서울 의무경찰 입대
+2017.8 - 제대
+2020.2 - 국민대 컴퓨터공학 졸업
+
+Score : 3.2(4.5)
+[Github](https://github.com/610ksh)
+
+---
+# Project
+
+### 2017.9 ~ 12
+: Open source Team project(LibGDX), Mobile Fight Game  
+오픈소스 팀프로젝트(LibGDX), 외국인들 3명과 협업하여 모바일 격투 게임 제작
+
+### 2018.9 ~ 12
+: Unity Team project, 3D Action adventure puzzle platformer gane  
+유니티 팀프로젝트(5인), 3D 액션 어드벤처 퍼즐 플랫포머 게임  
+아주대 인디게임 공모전에서 최우수상 시상
+
+### 2019.2 ~ 6
+: Unreal Team project, 3D Action adventure console RPG game  
+언리얼 팀프로젝트(4인), 3D 액션 어드벤처 콘솔 RPG 게임  
+졸업 프로젝트
+
+### 2019.8 ~ now
+: Unity Team project, 2D Adventure puzzle game(escape room)
+
+----
+# Study
+
+### 2019.6 ~ 8 (Summer vacation)
+- OpenGL 그래픽스 & 게임수학, 물리 (이론)
+- Cpp 문법 복습
+- DirectX 9 실습
+- 자료구조 직접 코딩(11개 완료)
+
+### 2019.9 ~ 12
+- 알고리즘 코딩 연습 (ACM-ICPC 기출문제)
+
+### 2020년
+- [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (12~1월)
+
+
+--
 ## Introducing Flex, a Jekyll theme
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
@@ -18,4 +65,4 @@ Flex is open sourced on GitHub and is licensed under the [MIT License](http://op
 
 안녕하세요!  
 제 깃허브 주소 [Github](https://github.com/610ksh) 입니다.
-###### 아마도 이게 통할지는..
+##### 아마도 이게 통할지는..
