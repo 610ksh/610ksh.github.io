@@ -5,19 +5,21 @@ cover: cover2.jpg
 date:   2020-01-01 00:00:00
 categories: posts
 ---
+　
 
-# About Me
+# Kookmin University
 
-2013.3 - 국민대 컴퓨터공학(소프트웨어) 입학
-2015.11 - 서울 의무경찰 입대
-2017.8 - 제대
-2020.2 - 국민대 컴퓨터공학 졸업
+2013.3 - 국민대 컴퓨터공학(소프트웨어) 입학  
+2015.11 - 서울 의무경찰 입대  
+2017.8 - 제대  
+2020.2 - 국민대 컴퓨터공학 졸업  
 
-Score : 3.2(4.5)
-[Github](https://github.com/610ksh)
+Score : 3.2(4.5)  
+[Github](https://github.com/610ksh)  
 
 ---
-# Project
+
+# Project  
 
 ### 2017.9 ~ 12
 : Open source Team project(LibGDX), Mobile Fight Game  
@@ -34,10 +36,13 @@ Score : 3.2(4.5)
 졸업 프로젝트
 
 ### 2019.8 ~ now
-: Unity Team project, 2D Adventure puzzle game(escape room)
+: Unity Team project, 2D Adventure puzzle game(escape room)  
+유니티 팀프로젝트(5인), 2D 방탈출 게임  
+현재 진행중
 
 ----
-# Study
+
+# Study  
 
 ### 2019.6 ~ 8 (Summer vacation)
 - OpenGL 그래픽스 & 게임수학, 물리 (이론)
@@ -52,7 +57,8 @@ Score : 3.2(4.5)
 - [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (12~1월)
 
 
---
+---
+　
 ## Introducing Flex, a Jekyll theme
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
@@ -65,4 +71,4 @@ Flex is open sourced on GitHub and is licensed under the [MIT License](http://op
 
 안녕하세요!  
 제 깃허브 주소 [Github](https://github.com/610ksh) 입니다.
-##### 아마도 이게 통할지는..
+#### 아마도 이게 통할지는..?
