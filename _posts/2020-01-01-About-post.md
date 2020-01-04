@@ -5,6 +5,8 @@ cover: cover2.jpg
 date:   2020-01-01 00:00:00
 categories: posts
 ---
+
+---
 　
 # Kookmin University  
 ## 2013.3 - 국민대 컴퓨터공학(소프트웨어) 입학  
@@ -14,6 +16,7 @@ categories: posts
 
 ### Score : 3.2(4.5)  
 ### [Github](https://github.com/610ksh)  
+　
 
 ---
 　
@@ -45,7 +48,7 @@ categories: posts
 
 : Open source Team project(LibGDX), Mobile Fight Game  
 오픈소스 팀프로젝트(LibGDX), 외국인들 3명과 협업하여 모바일 격투 게임 제작  
-[Github](https://github.com/610ksh/OSS_Project_FightGame)
+[Github](https://github.com/610ksh/OSS_Project_FightGame)  
 
 ---
 　
@@ -60,9 +63,8 @@ categories: posts
 - [알고리즘 코딩 연습 (ACM-ICPC 기출문제)](https://github.com/610ksh/Algorithm)
 
 ## 2020년
-- [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (2019.12~1월)
+- [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (2019.12~1월)  
 
-　
 ---
 　
 # 1. 마크다운 test
