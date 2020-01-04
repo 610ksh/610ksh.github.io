@@ -63,12 +63,12 @@ categories: posts
 - [알고리즘 코딩 연습 (ACM-ICPC 기출문제)](https://github.com/610ksh/Algorithm)
 
 ## 2020년
-- [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (2019.12~1월)  
+- [OpenGL & Cpp 게임 프로그래밍 기초](https://github.com/610ksh/OpenGL_HongClassExample) (2019.12~1월)  
 
 ---
 　
-# 1. 마크다운 test
-## 2. 하자
+# 1. 여기는 테스트 중 입니다
+## 2. 무시하세요~
 ### 3. 테스트
 #### 4. 중
 ##### 5. 입니다
