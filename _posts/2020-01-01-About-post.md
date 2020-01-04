@@ -13,7 +13,7 @@ categories: posts
 ## 2020.2 - 국민대 컴퓨터공학 졸업  
 
 ### Score : 3.2(4.5)  
-[Github](https://github.com/610ksh)  
+### [Github](https://github.com/610ksh)  
 
 ---
 　
@@ -62,18 +62,13 @@ categories: posts
 ## 2020년
 - [OpenGL & Cpp 게임 만들기](https://github.com/610ksh/OpenGL_HongClassExample) (2019.12~1월)
 
-
+　
 ---
 　
-## Introducing Flex, a Jekyll theme
-
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
-
-## Open Sourced on GitHub
-
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
-
-## 3. TEST
-### 2019.8 ~ now
-안녕하세요!  
+# 1. 마크다운 test
+## 2. 하자
+### 3. 테스트
+#### 4. 중
+##### 5. 입니다
+기본 문구    
 제 깃허브 주소 [Github](https://github.com/610ksh) 입니다.
