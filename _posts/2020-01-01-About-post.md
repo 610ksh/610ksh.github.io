@@ -36,6 +36,7 @@ Score : 3.2(4.5)
 유니티 팀프로젝트(5인), 3D 액션 어드벤처 퍼즐 플랫포머 게임  
 아주대 인디게임 공모전에서 최우수상 시상
 [Github](https://github.com/610ksh/Dreamweaver)
+![test](/images/logo.png)
 
 ### 2017.9 ~ 12
 : Open source Team project(LibGDX), Mobile Fight Game  
